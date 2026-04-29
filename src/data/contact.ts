@@ -6,7 +6,7 @@ import Github from '../assets/github.svg';
 export const contacts = [
   {
     icon: Github,
-    info: 'https://github.com/HaihengDev',
+    info: 'HaihengDev',
     link: 'https://github.com/HaihengDev',
   },
   {
