@@ -12,16 +12,16 @@ export const contacts = [
   {
     icon: Email,
     info: 'haihenglim9@gmail.com',
-    link: '#',
+    link: 'mailto:haihenglim9@gmail.com',
   },
   {
     icon: Telegram,
     info: '@limhaiheng56',
-    link: '#',
+    link: 'https://t.me/limhaiheng56',
   },
   {
     icon: Phone,
     info: '096 883 0651',
-    link: '#',
+    link: 'tel:+855968830651',
   },
 ];
