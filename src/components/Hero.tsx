@@ -3,11 +3,14 @@ import './style/hero.css';
 
 export default function Hero() {
   return (
-    <section className="hero-wrapper">
+    <section className="hero-wrapper" id="hero-wrapper">
       <aside>
         <h2>Lim Haiheng</h2>
         <p>Fullstack web development</p>
-        <p>Passionate to build and develop modern web application.</p>
+        <p>
+          Passionate about building user-friendly web applications with clean,
+          scalable, and maintainable code.
+        </p>
       </aside>
 
       <img src={Profile} alt="profile image" />
