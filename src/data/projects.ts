@@ -1,4 +1,5 @@
 import react from '../assets/react.svg';
+import tailwindcss from '../assets/tailwind.svg';
 import node from '../assets/nodejs.svg';
 import express from '../assets/express.png';
 import mongodb from '../assets/mongo.png';
@@ -48,7 +49,7 @@ export const projects = [
       'Connected frontend with backend APIs for real-time product data.',
       'Developed secure authentication and role-based access control.',
     ],
-    tech: [react],
+    tech: [react, tailwindcss],
     link: 'https://github.com/HaihengDev/Mart-Management-System-Frontend',
     isCompleted: true,
   },
