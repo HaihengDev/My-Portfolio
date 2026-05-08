@@ -21,7 +21,7 @@ export const contacts = [
   },
   {
     icon: Phone,
-    info: '096 883 0651',
-    link: 'tel:+855968830651',
+    info: '017 311 239',
+    link: 'tel:+85517311239',
   },
 ];
