@@ -1,9 +1,9 @@
-// import react from '../assets/react.svg';
+import react from '../assets/react.svg';
 import node from '../assets/nodejs.svg';
 import express from '../assets/express.png';
 import mongodb from '../assets/mongo.png';
 import cloudflare from '../assets/cloudflare.svg';
-// import MartFrontend from '../assets/mart-frontend.png';
+import MartFrontend from '../assets/mart-frontend.png';
 import MartBackend from '../assets/mart-backend.png';
 
 export const projects = [
@@ -38,20 +38,20 @@ export const projects = [
     link: 'https://github.com/HaihengDev/E-Commerce-Web-Service',
     isCompleted: true,
   },
-  // {
-  //   id: 3,
-  //   name: 'Mart-Management-System-Frontend',
-  //   image: MartFrontend,
-  //   description: [
-  //     'Designed intuitive and user-centric interfaces.',
-  //     'Delivered fast, responsive, and smooth UI performance.',
-  //     'Connected frontend with backend APIs for real-time product data.',
-  //     'Developed secure authentication and role-based access control.',
-  //   ],
-  //   tech: [react],
-  //   link: 'https://github.com/HaihengDev/Mart-Management-System-Frontend',
-  //   isCompleted: false,
-  // },
+  {
+    id: 3,
+    name: 'Mart-Management-System-Frontend',
+    image: MartFrontend,
+    description: [
+      'Designed intuitive and user-centric interfaces.',
+      'Delivered fast, responsive, and smooth UI performance.',
+      'Connected frontend with backend APIs for real-time product data.',
+      'Developed secure authentication and role-based access control.',
+    ],
+    tech: [react],
+    link: 'https://github.com/HaihengDev/Mart-Management-System-Frontend',
+    isCompleted: true,
+  },
   {
     id: 4,
     name: 'Mart-Management-System-Backend',
@@ -62,12 +62,10 @@ export const projects = [
       'Implemented cloud storage solutions for secure and scalable management of product images.',
       'Implemented secure authentication and role-based authorization.',
       'Protected sensitive data through encryption best practices.',
-      'Built reporting and analytics features for business insights.',
       'Developed inventory monitoring for expiry and stock levels.',
-      'Engineered a loyalty program with point tracking and reward mechanisms.',
     ],
     tech: [node, express, mongodb, cloudflare],
     link: 'https://github.com/HaihengDev/Mart-Management-System-Backend',
-    isCompleted: false,
+    isCompleted: true,
   },
 ];
