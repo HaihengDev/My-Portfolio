@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="hero-wrapper" id="hero-wrapper">
       <aside>
         <h2>Lim Haiheng</h2>
-        <p>Junior Backend Developer</p>
+        <p>Fullstack Developer</p>
         <p>
           Passionate about building user-friendly web applications with clean,
           scalable, and maintainable code.
