@@ -41,7 +41,7 @@ export const projects = [
   },
   {
     id: 3,
-    name: 'Mart-Management-System-Frontend',
+    name: 'Inventory-Management-Frontend',
     image: MartFrontend,
     description: [
       'Designed intuitive and user-centric interfaces.',
@@ -55,7 +55,7 @@ export const projects = [
   },
   {
     id: 4,
-    name: 'Mart-Management-System-Backend',
+    name: 'Inventory-Management-Backend',
     image: MartBackend,
     description: [
       'Designed and developed scalable RESTful APIs for CRUD operations.',
