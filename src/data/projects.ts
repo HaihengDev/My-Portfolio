@@ -50,7 +50,7 @@ export const projects = [
       'Developed secure authentication and role-based access control.',
     ],
     tech: [react, tailwindcss],
-    link: 'https://github.com/HaihengDev/Mart-Management-System-Frontend',
+    link: 'https://github.com/HaihengDev/Inventory-Management-Frontend',
     isCompleted: true,
   },
   {
@@ -66,7 +66,7 @@ export const projects = [
       'Developed inventory monitoring for expiry and stock levels.',
     ],
     tech: [node, express, mongodb, cloudflare],
-    link: 'https://github.com/HaihengDev/Mart-Management-System-Backend',
+    link: 'https://github.com/HaihengDev/Inventory-Management-Backend',
     isCompleted: true,
   },
 ];
